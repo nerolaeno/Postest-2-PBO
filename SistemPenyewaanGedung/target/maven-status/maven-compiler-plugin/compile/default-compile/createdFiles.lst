@@ -1,0 +1,5 @@
+models\Admin.class
+services\PenyewaanService.class
+com\mycompany\sistempenyewaangedung\SistemPenyewaanGedung.class
+models\Gedung.class
+models\Penyewa.class
