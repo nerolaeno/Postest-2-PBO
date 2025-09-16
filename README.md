@@ -61,21 +61,21 @@ Jika pengguna memilih menu ini, program akan menampilkan pesan “Terima kasih, 
 1. com.mycompany.sistempenyewaangedung
 
      Berisi file SistemPenyewaanGedung.java. :
-    -Menampilkan menu utama kepada pengguna
-    -Menerima input dari pengguna
-    -Mengarahkan proses ke bagian yang sesuai (menambah, melihat, mengubah, menghapus, mencari penyewaan)
+-Menampilkan menu utama kepada pengguna
+-Menerima input dari pengguna
+-Mengarahkan proses ke bagian yang sesuai (menambah, melihat, mengubah, menghapus, mencari penyewaan)
 
 
 2. models
 
     Berisi class yang menyimpan data.
-    -Admin.java : Menyimpan data admin (username, password, dsb.)
-    -Gedung.java : Menyimpan data gedung (nama, kapasitas, harga sewa)
-    -Penyewa.java : Menyimpan data penyewa (nama penyewa, jenis kegiatan,  tanggal sewa, lama sewa)
+-Admin.java : Menyimpan data admin (username, password, dsb.)
+-Gedung.java : Menyimpan data gedung (nama, kapasitas, harga sewa)
+-Penyewa.java : Menyimpan data penyewa (nama penyewa, jenis kegiatan,  tanggal sewa, lama sewa)
 
     Package ini hanya untuk menyimpan data, tidak ada proses perhitungan di sini.
 
 3. services
 
     Berisi proses atau logika utama program.
-    -PenyewaanService.java → Mengatur semua proses seperti menambah penyewaan, menampilkan daftar, mengubah data, menghapus data, dan mencari data.
+-PenyewaanService.java → Mengatur semua proses seperti menambah penyewaan, menampilkan daftar, mengubah data, menghapus data, dan mencari data.
