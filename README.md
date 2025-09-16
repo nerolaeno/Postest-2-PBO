@@ -61,8 +61,11 @@ Jika pengguna memilih menu ini, program akan menampilkan pesan “Terima kasih, 
 1. com.mycompany.sistempenyewaangedung
 
 Berisi file SistemPenyewaanGedung.java. :
+
 -Menampilkan menu utama kepada pengguna
+
 -Menerima input dari pengguna
+
 -Mengarahkan proses ke bagian yang sesuai (menambah, melihat, mengubah, menghapus, mencari penyewaan)
 
 
@@ -74,7 +77,7 @@ Berisi file SistemPenyewaanGedung.java. :
 
 -Penyewa.java : Menyimpan data penyewa (nama penyewa, jenis kegiatan,  tanggal sewa, lama sewa)
 
-    Package ini hanya untuk menyimpan data, tidak ada proses perhitungan di sini.
+ Package ini hanya untuk menyimpan data, tidak ada proses perhitungan di sini.
 
 4. services
 
