@@ -12,50 +12,51 @@ Program Sistem Penyewaan Gedung merupakan aplikasi sederhana yang meniru fungsi 
 ### Menu Utama
 Pada saat User pertama kali menjalankan program dan masuk ke program, User akan dihadapkan dengan menu seperti gambar ini.
 
-![alt text](image.png)
+<img width="509" height="174" alt="Screenshot 2025-09-16 211234" src="https://github.com/user-attachments/assets/807804b5-7ff4-4b8f-a8db-4b5a95e9e115" />
 
 ### 1. Tambah Penyewaan
 
 Jika pengguna memilih menu ini, program akan meminta input berupa nama penyewa, jenis kegiatan, tanggal sewa, dan lama sewa dalam hitungan hari. Setelah semua data dimasukkan, sistem akan menambahkan data penyewaan baru ke daftar dan menampilkan pesan konfirmasi bahwa data berhasil ditambahkan.
 
-![alt text](image-1.png)
+<img width="589" height="304" alt="Screenshot 2025-09-16 213107" src="https://github.com/user-attachments/assets/dd2e0c74-c247-4c93-8798-a67fce364de2" />
 
 ### 2. Lihat Semua Penyewaan
 
 Menu ini digunakan untuk menampilkan semua data penyewaan yang sudah tercatat. Data akan ditampilkan dalam bentuk tabel yang memuat kolom ID, Nama Penyewa, Jenis Kegiatan, Tanggal Sewa, dan Lama Sewa (hari). Jika belum ada data, program akan menampilkan pesan bahwa data masih kosong.
 
-![alt text](image-2.png)
+<img width="885" height="414" alt="Screenshot 2025-09-16 213201" src="https://github.com/user-attachments/assets/daa17ebd-5cdf-4f5e-9f78-31b512d61885" />
 
 ### 3. Ubah Data Penyewaan
 
 Menu ini memungkinkan pengguna mengubah data penyewaan yang sudah ada. Program akan meminta input ID penyewaan yang ingin diubah. Jika ID ditemukan, pengguna dapat memasukkan data baru seperti nama penyewa, jenis kegiatan, tanggal sewa, atau lama sewa. Setelah selesai, program menampilkan pesan konfirmasi bahwa data berhasil diubah.
 
-![alt text](image-3.png)
+<img width="575" height="278" alt="Screenshot 2025-09-16 213258" src="https://github.com/user-attachments/assets/e6440bea-85d8-4d2f-845d-caa408960346" />
 
 ### 4. Hapus Data Penyewaan
 
 Jika pengguna memilih menu ini, program akan meminta input ID penyewaan yang ingin dihapus. Jika ID ditemukan, data tersebut akan dihapus dari daftar penyewaan, dan program menampilkan pesan konfirmasi bahwa data berhasil dihapus. Jika ID tidak ditemukan, akan muncul pesan peringatan.
 
-![alt text](image-4.png)
+<img width="567" height="227" alt="Screenshot 2025-09-16 213417" src="https://github.com/user-attachments/assets/58e92cd7-d200-4b92-b28c-fd9f3a6a54f8" />
 
 Untuk melihat apakah data sudah terhapus, pilih menu 2 (Lihat Wahana).
 
-![alt text](image-5.png)
+<img width="868" height="385" alt="Screenshot 2025-09-16 213451" src="https://github.com/user-attachments/assets/5c282a50-a487-4d88-8c16-9df17f04c3d1" />
+
 ### 5. Cari Penyewaan
 
 Menu ini digunakan untuk mencari data penyewaan berdasarkan nama penyewa. Program akan meminta pengguna memasukkan kata kunci nama, lalu menampilkan semua data penyewaan yang cocok dalam format tabel. Jika tidak ada data yang cocok, program akan memberi tahu bahwa data tidak ditemukan.
 
-![alt text](image-6.png)
+<img width="560" height="365" alt="Screenshot 2025-09-16 213551" src="https://github.com/user-attachments/assets/949e1973-37c1-46c8-b367-f117ed5f3008" />
 
 ### 6. Keluar
 
 Jika pengguna memilih menu ini, program akan menampilkan pesan “Terima kasih, silahkan datang kembali!” kemudian menghentikan seluruh proses program.
 
-![alt text](image-7.png)
+<img width="768" height="224" alt="Screenshot 2025-09-16 213644" src="https://github.com/user-attachments/assets/8742b443-6e40-4332-a339-436971ac2ba6" />
 
 ## =============================================
 
-![alt text](image-8.png)
+<img width="392" height="225" alt="Screenshot 2025-09-16 214635" src="https://github.com/user-attachments/assets/bb614b14-65d7-40b4-b016-5d3e02d6a3b3" />
 
 1. com.mycompany.sistempenyewaangedung
 
